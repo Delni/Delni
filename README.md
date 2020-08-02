@@ -19,6 +19,7 @@ I'm also a keeb's lover ⌨️❤️
 ![Kotlin](https://img.shields.io/badge/-Kotlin-%230095D5?style=flat&logo=kotlin&logoColor=ffffff)
 ![Dart](https://img.shields.io/badge/-Dart-%230175C2?style=flat&logo=dart)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat&logo=Vue.js)
+![Nuxt](https://img.shields.io/badge/-Nuxt.js-%232c3e50?style=flat&logo=nuxt.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react)
 ![Electron](https://img.shields.io/badge/-Electron-%232B2E3B?style=flat&logo=electron)
 ![Flutter](https://img.shields.io/badge/-Flutter-%2302569B?style=flat&logo=flutter)
@@ -41,7 +42,7 @@ I'm also a keeb's lover ⌨️❤️
 ![visits](https://badges.pufler.dev/visits/Delni/Delni)  
 
 ![delni's github stats](https://github-readme-stats.vercel.app/api?username=delni&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delni&layout=compact?hide=php)](https://github.com/delni/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delni&layout=compact&hide=php)](https://github.com/delni/)
 
 <!--
 **Delni/Delni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
