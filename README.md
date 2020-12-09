@@ -10,7 +10,7 @@ I'm also a keeb's lover ⌨️❤️
 [![telegram](https://img.shields.io/badge/-delni144-%232CA5E0?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/delni144)
 [![buymeacoffe](https://img.shields.io/badge/-Delni-%23FF813F?style=flat-square&logo=buy-me-a-coffee&logoColor=ffffff)](https://www.buymeacoffee.com/Delni)
 
-## 🖥 Tools of the trade
+## Tools of the trade 🖥 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
@@ -41,8 +41,8 @@ I'm also a keeb's lover ⌨️❤️
 
 ![visits](https://badges.pufler.dev/visits/Delni/Delni)  
 
-![delni's github stats](https://github-readme-stats.vercel.app/api?username=delni&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delni&layout=compact&hide=php)](https://github.com/delni/)
+![delni's github stats](https://github-readme-stats.vercel.app/api?username=delni&show_icons=true&count_private=true&bg_color=120,0c1118,2f363e&text_color=c7d1da&title_color=3c9ef9&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delni&layout=compact&hide=php,smarty,CoffeeScript&bg_color=120,0c1118,2f363e&text_color=c7d1da&title_color=3c9ef9&hide_border=true&langs_count=8)](https://github.com/delni/)
 
 <!--
 **Delni/Delni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
