@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm Nicolas Delauney, a passionnate developer with a weakness for front end and JAMStack. I value Open-Source and love to learn new techs / frameworks. Currently in Bordeaux, France :wine_glass: 🇫🇷.  
+I'm Nicolas Delauney, a passionnate developer with a weakness for front end and JAMStack. I value Open-Source and love to learn new techs / frameworks. Currently in the Beaujolais countryside, France :wine_glass: 🇫🇷.  
 My secret passion is creating new UI/UX 🎨 with the lowest cognitive effort 🧠 (aka intuitive is better) and dataviz 📊  
 I'm also a keeb's lover ⌨️❤️  
 
